@@ -1,0 +1,16 @@
+{
+    "name": "Is Even Checker",
+    "short_name": "EvenChecker",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "img/music.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
